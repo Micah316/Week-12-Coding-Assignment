@@ -1,0 +1,75 @@
+
+    body
+    
+    {
+        background-image: url('Sony-PS5-Image.jpeg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover; 
+    }
+    
+    table
+    {
+        width: 80%;
+        margin: 40px auto; 
+        background: rgb(26, 68, 255);
+    }
+    
+    table.list
+    {
+        text-align: center;
+        width: 100%;
+    }
+    
+    td
+    {
+        border: 1px solid rgb(50, 255, 98);
+        text-align: left;
+        padding: 8px 15px;
+    }
+    
+    tr:nth-child(even), table.list thread> tr
+    {
+        background-color: aliceblue;
+    }
+    
+    input[type="text"], input[type="number"]
+    {
+        background: whitesmoke;
+        padding: 6px 12px; 
+        margin: 15px 0 10px; 
+        display: inline-block; 
+        border: none;
+        border-radius: 30px; 
+        font-size: 1rem; 
+        cursor: pointer; 
+        outline: none; 
+    }
+    
+    input[type="submit"]:hover
+    {
+        background: blueviolet;
+    }
+    
+    input[type="reset"]:hover
+    {
+        background: greenyellow; 
+    }
+    
+    button
+    {
+        background: whitesmoke;
+        padding: 6 px 12 px; 
+        margin: 15px 0 10px; 
+        display: inline-block;
+        border: none; 
+        border-radius: 30px; 
+        font-size: 1rem; 
+        cursor: pointer;
+        outline: none; 
+    }
+    
+    button:hover
+    {
+    background: greenyellow;
+    }

@@ -1,0 +1,22 @@
+{
+  "gameList": [
+    {
+      "Gaming Code": "ACREED3",
+      "PlayStation Product": "Assassin's Creed 3",
+      "Genre":"0", 
+      "Price": "60"
+    },
+    {
+      "Gameing Code": "GOW4",
+      "PlayStation Product": "God of War 4",
+      "Genre": "1",
+      "Price": "70"
+    },
+    {
+      "Gaming Code": "RDR2",
+      "PlayStation Product": "Red Dead Redemption 2",
+      "Genre": "3",
+      "Price": "80"
+    }
+  ]
+}
